@@ -32,3 +32,33 @@
     border-bottom: 3px solid;
     height: 40px;
 }
+
+.bg-blue {
+    height: 150px;
+    overflow: hidden;
+}
+
+.bg-blue2 {
+    height: 100%;
+    width: 100%;
+}
+
+.bg-blue3 {
+    stroke: none;
+    fill: #241178;
+}
+
+.bg-light1 {
+    height: 100px;
+    overflow: hidden;
+}
+
+.bg-light2 {
+    height: 100%;
+    width: 100%;
+}
+
+.bg-light3 {
+    stroke: none;
+    fill: #f8f9fa;
+}
